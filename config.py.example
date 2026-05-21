@@ -1,3 +1,2 @@
 # copy this to config.py and fill with your values from https://www.warcraftlogs.com/api/clients/
-client_id = ""
-client_secret = ""
+api_key = ""
