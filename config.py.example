@@ -1,2 +1,2 @@
-# copy this to config.py and fill with your values from https://www.warcraftlogs.com/api/clients/
+# copy this to config.py and fill with your api key from raider io
 api_key = ""
